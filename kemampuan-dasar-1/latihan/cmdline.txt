@@ -1,0 +1,276 @@
+1. tasklist
+     C:\Users>tasklist
+     Image Name                     PID Session Name        Session#    Mem Usage
+     ========================= ======== ================ =========== ============
+     System Idle Process              0 Services                   0         24 K
+     System                           4 Services                   0        696 K
+     smss.exe                       264 Services                   0      1.232 K
+     csrss.exe                      428 Services                   0      4.416 K
+     wininit.exe                    520 Services                   0      4.756 K
+     csrss.exe                      536 Console                    1     10.544 K
+     services.exe                   568 Services                   0      9.476 K
+     lsass.exe                      592 Services                   0     11.232 K
+     lsm.exe                        600 Services                   0      4.480 K
+     winlogon.exe                   636 Console                    1      7.468 K
+     svchost.exe                    760 Services                   0     10.024 K
+     svchost.exe                    836 Services                   0      7.920 K
+     atiesrxx.exe                   884 Services                   0      5.060 K
+     svchost.exe                    976 Services                   0     19.080 K
+     svchost.exe                    244 Services                   0    126.676 K
+     svchost.exe                    440 Services                   0     15.784 K
+     svchost.exe                    516 Services                   0     34.072 K
+     svchost.exe                   1048 Services                   0      6.068 K
+     svchost.exe                   1164 Services                   0     15.624 K
+     atieclxx.exe                  1220 Console                    1      7.368 K
+     spoolsv.exe                   1352 Services                   0     12.596 K
+     svchost.exe                   1396 Services                   0     14.440 K
+     taskhost.exe                  1508 Console                    1     13.644 K
+     dwm.exe                       1592 Console                    1     27.348 K
+     explorer.exe                  1636 Console                    1     86.272 K
+     svchost.exe                   1796 Services                   0      7.632 K
+     NitroPDFDriverService11x6     1888 Services                   0      3.420 K
+     Nitro_UpdateService.exe       1976 Services                   0      6.972 K
+     svchost.exe                   2348 Services                   0     34.620 K
+     Lightshot.exe                 2472 Console                    1     10.232 K
+     SearchIndexer.exe             2580 Services                   0     15.096 K
+     svchost.exe                   2688 Services                   0      5.844 K
+     wuauclt.exe                   2292 Console                    1      7.292 K
+     svchost.exe                   2616 Services                   0      7.780 K
+     WmiPrvSE.exe                  2552 Services                   0      6.948 K
+     brave.exe                     2848 Console                    1    243.684 K
+     brave.exe                     2776 Console                    1      5.348 K
+     brave.exe                     2408 Console                    1    117.496 K
+     brave.exe                     1772 Console                    1     37.668 K
+     brave.exe                     1156 Console                    1    101.552 K
+     brave.exe                     3044 Console                    1     60.704 K
+     brave.exe                     2024 Console                    1    100.836 K
+     Code.exe                      2304 Console                    1     87.540 K
+     Code.exe                      3776 Console                    1      9.896 K
+     Code.exe                      3392 Console                    1     35.160 K
+     Code.exe                       832 Console                    1     22.088 K
+     Code.exe                      2892 Console                    1    140.640 K
+     Code.exe                      3704 Console                    1     68.352 K
+     Code.exe                      3764 Console                    1     34.056 K
+     Code.exe                      3976 Console                    1     60.128 K
+     Code.exe                      3872 Console                    1     34.592 K
+     brave.exe                     4052 Console                    1     20.488 K
+     brave.exe                     3096 Console                    1     96.524 K
+     taskeng.exe                   3312 Services                   0      5.660 K
+     MicrosoftEdgeUpdate.exe       4032 Services                   0        568 K
+     cmd.exe                       2880 Console                    1      3.376 K
+     conhost.exe                   1120 Console                    1      6.348 K
+     brave.exe                     3028 Console                    1     90.508 K
+     brave.exe                      284 Console                    1     28.424 K
+     WmiPrvSE.exe                  1028 Services                   0      7.732 K
+     tasklist.exe                  2412 Console                    1      6.196 K
+
+2. date
+     C:\Users>date
+     The current date is: 11/08/2022
+     Enter the new date: (dd-mm-yy)
+
+3. Ping (8.8.8.8)
+     C:\Users>ping 8.8.8.8
+
+     Pinging 8.8.8.8 with 32 bytes of data:
+     Reply from 8.8.8.8: bytes=32 time=62ms TTL=248
+     Reply from 8.8.8.8: bytes=32 time=37ms TTL=248
+     Reply from 8.8.8.8: bytes=32 time=43ms TTL=248
+     Reply from 8.8.8.8: bytes=32 time=36ms TTL=248
+
+     Ping statistics for 8.8.8.8:
+     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+     Approximate round trip times in milli-seconds:
+     Minimum = 36ms, Maximum = 62ms, Average = 44ms
+
+4. dir
+     C:\>dir
+     Volume in drive C has no label.
+     Volume Serial Number is 74A7-2022
+
+     Directory of C:\
+
+     18/03/2019  20:57    <DIR>          AMD
+     14/07/2009  10:20    <DIR>          PerfLogs
+     11/08/2022  08:30    <DIR>          Program Files
+     01/01/2011  00:01    <DIR>          Program Files (x86)
+     18/03/2019  20:24    <DIR>          Users
+     19/05/2022  17:28    <DIR>          Windows
+                    0 File(s)              0 bytes
+                    6 Dir(s)  101.815.283.712 bytes free
+
+5. cd
+     C:\>cd users
+     C:\Users>cd fauzan
+     C:\Users\Fauzan>cd desktop
+     C:\Users\Fauzan\Desktop>
+
+6. compact
+     C:\Users\Fauzan\Desktop>compact
+
+     Listing C:\Users\Fauzan\Desktop\
+     New files added to this directory will not be compressed.
+
+          2469 :      2469 = 1,0 to 1   Brave.lnk
+          0 :         0 = 1,0 to 1   Coding-PGT
+          0 :         0 = 1,0 to 1   Coding-PGT-main
+          1176 :      1176 = 1,0 to 1   Driver Booster.lnk
+          2262 :      2262 = 1,0 to 1   GitHub Desktop.lnk
+          0 :         0 = 1,0 to 1   Microsoft .NET Framework 4.5.x all  packages
+     [gisenglish.com]
+          2951 :      2951 = 1,0 to 1   Microsoft Excel 2010.lnk
+          3021 :      3021 = 1,0 to 1   Microsoft Word 2010.lnk
+          1008 :      1008 = 1,0 to 1   Movavi Video Suite.lnk
+          0 :         0 = 1,0 to 1   ok.txt
+          971 :       971 = 1,0 to 1   Quranflash - Shortcut.lnk
+          875 :       875 = 1,0 to 1   Telegram - Shortcut.lnk
+          955 :       955 = 1,0 to 1   Telegram.lnk
+          1062 :      1062 = 1,0 to 1   vMixDesktopCapture - Shortcut.lnk
+          2092 :      2092 = 1,0 to 1   WhatsApp.lnk
+
+     Of 16 files within 1 directories
+     0 are compressed and 16 are not compressed.
+     19.124 total bytes of data are stored in 19.124 bytes.
+     The compression ratio is 1,0 to 1.
+
+7. chiper
+     C:\Users>cipher
+
+     Listing C:\Users\Fauzan\Desktop\
+     New files added to this directory will not be encrypted.
+
+     U Brave.lnk
+     U Coding-PGT
+     U Coding-PGT-main
+     U Driver Booster.lnk
+     U GitHub Desktop.lnk
+     U Microsoft .NET Framework 4.5.x all  packages [gisenglish.com]
+     U Microsoft Excel 2010.lnk
+     U Microsoft Word 2010.lnk
+     U Movavi Video Suite.lnk
+     U ok.txt
+     U Quranflash - Shortcut.lnk
+     U Telegram - Shortcut.lnk
+     U Telegram.lnk
+     U vMixDesktopCapture - Shortcut.lnk
+     U WhatsApp.lnk
+
+8. whoami
+     C:\>whoami
+     fauzan-pc\fauzan
+
+9. copy
+     C:\Users\Fauzan\Desktop>copy ok.txt D:
+          1 file(s) copied.
+
+10. msg 
+     C:\>msg
+     Send a message to a user.
+
+     MSG {username | sessionname | sessionid | @filename | *}
+     [/SERVER:servername] [/TIME:seconds] [/V] [/W] [message]
+
+     username            Identifies the specified username.
+     sessionname         The name of the session.
+     sessionid           The ID of the session.
+     @filename           Identifies a file containing a list of usernames,
+                         sessionnames, and sessionids to send the message to.
+     *                   Send message to all sessions on specified server.
+     /SERVER:servername  server to contact (default is current).
+     /TIME:seconds       Time delay to wait for receiver to acknowledge msg.
+     /V                  Display information about actions being performed.
+     /W                  Wait for response from user, useful with /V.
+     message             Message to send.  If none specified, prompts for it
+                         or reads from stdin.
+
+11. cacls
+     C:\>cacls
+
+     NOTE: Cacls is now deprecated, please use Icacls.
+
+     Displays or modifies access control lists (ACLs) of files
+
+     CACLS filename [/T] [/M] [/L] [/S[:SDDL]] [/E] [/C] [/G user:perm]
+          [/R user [...]] [/P user:perm [...]] [/D user [...]]
+     filename      Displays ACLs.
+     /T            Changes ACLs of specified files in
+                    the current directory and all subdirectories.
+     /L            Work on the Symbolic Link itself versus the target
+     /M            Changes ACLs of volumes mounted to a directory
+     /S            Displays the SDDL string for the DACL.
+     /S:SDDL       Replaces the ACLs with those specified in the SDDL string
+                    (not valid with /E, /G, /R, /P, or /D).
+     /E            Edit ACL instead of replacing it.
+     /C            Continue on access denied errors.
+     /G user:perm  Grant specified user access rights.
+                    Perm can be: R  Read
+                                   W  Write
+                                   C  Change (write)
+                                   F  Full control
+     /R user       Revoke specified user's access rights (only valid with /E).
+     /P user:perm  Replace specified user's access rights.
+                    Perm can be: N  None
+                                   R  Read
+                                   W  Write
+                                   C  Change (write)
+                                   F  Full control
+     /D user       Deny specified user access.
+     Wildcards can be used to specify more than one file in a command.
+     You can specify more than one user in a command.
+
+     Abbreviations:
+     CI - Container Inherit.
+          The ACE will be inherited by directories.
+     OI - Object Inherit.
+          The ACE will be inherited by files.
+     IO - Inherit Only.
+          The ACE does not apply to the current file/directory.
+     ID - Inherited.
+          The ACE was inherited from the parent directory's ACL.
+
+12. getmac
+     C:\>getmac
+
+     Physical Address    Transport Name
+     =================== ==========================================================
+     08-9E-01-8C-4F-94   Media disconnected
+     02-01-01-00-35-64   \Device\Tcpip_{B1F4F094-AC26-41D7-AD12-8FB4258074E0}
+     2C-D0-5A-3A-F0-2B   Media disconnected
+
+13. hostname
+     C:\>hostname
+     Fauzan-PC
+
+15. mkdir
+     C:\Users\Fauzan\Desktop>mkdir folder1
+
+16. copy con
+     C:\Users\Fauzan\Desktop>copy con teks.txt
+     test 1
+     test 2
+     abcd efgh ijkl
+     1234 5678 91011^Z
+          1 file(s) copied.
+
+17. ver 
+     C:\>ver
+
+     Microsoft Windows [Version 6.1.7601]
+
+18. time 
+     C:\>time
+     The current time is: 12:07:46,87
+     Enter the new time:
+
+19. nslookup
+     C:\>nslookup 8.8.8.8
+     Server:  UnKnown
+     Address:  192.168.42.129
+
+     Name:    dns.google
+     Address:  8.8.8.8
+
+20. attrib
+     C:\>attrib
+     A  SH   I    C:\hiberfil.sys
+     A  SH        C:\pagefile.sys
