@@ -52,3 +52,17 @@ Mereka akan menerima email yang memberitahukan bahwa Anda menambahkan mereka dan
 
 ![Screenshot_2](https://user-images.githubusercontent.com/110981711/184480147-684f221e-954f-46ef-bb71-1666c8b26225.png)
 
+ Anda ingin berkolaborasi di Repo Github yang sama dengan rekan satu tim Anda. Jika Anda seorang kolaborator, buka halaman Github Repo, Git Clone proyek, dan cd ke direktori.
+ 
+ ![Screenshot_10](https://user-images.githubusercontent.com/110981711/184480593-07453d2b-bd50-43ab-8904-ee913fc8804d.png)
+ 
+ ```
+ $ git clone https://github.com/fauzanantony/github_guide.git
+$cd github_guide/
+ ```
+ 
+ Dan sekarang Anda siap untuk berkolaborasi!!
+ 
+ ### Langkah 3: Berkolaborasi
+ 
+ 
