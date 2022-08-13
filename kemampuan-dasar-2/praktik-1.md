@@ -2,7 +2,7 @@
 
 ## [Getting Started](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67).
 
-### Langkah 1: Inisialisasi Proyek Baru
+## Langkah 1: Inisialisasi Proyek Baru
 
 Buka Github dan klik tombol '+' di pojok kanan rop dan pilih 'New Repository'.
 
@@ -40,7 +40,7 @@ Sekarang periksa repo Anda. dan lihat file yang telah anda tambahkan di dalam fo
 
 Anda telah diinisialisasi dan siap untuk mulai bekerja!!
 
-### Langkah 2: Siapkan Tim Anda
+## Langkah 2: Siapkan Tim Anda
 
 Anda adalah pemain tim, jadi Anda perlu menambahkan tim Anda ke repo agar mereka dapat berkolaborasi. Setelah tim Anda ditambahkan sebagai kolaborator, mereka akan dapat mendorong, menggabungkan, dan banyak hal merusak lainnya, jadi pastikan Anda hanya menambahkan rekan satu tim Anda.
 
@@ -63,7 +63,7 @@ $cd github_guide/
  
  Dan sekarang Anda siap untuk berkolaborasi!!
  
- ### Langkah 3: Berkolaborasi
+ ## Langkah 3: Berkolaborasi
  
  Saat Anda menggunakan git untuk mengerjakan proyek yang sama dengan banyak orang, ada satu aturan utama yang harus Anda ikuti:
 
@@ -149,4 +149,4 @@ Anda kemudian akan melihat pesan "Pull request successfully merged and closed" d
 
 ![Screenshot_7](https://user-images.githubusercontent.com/110981711/184497828-b46010c1-2460-4333-9eaa-8e3cd155759d.png)
 
-### Selesai !!
+## Selesai !!
