@@ -2,4 +2,4 @@
 
 ini adalah repository "Coding-PGT" milik @fauzanantony!
 
-[fznwm](https://user-images.githubusercontent.com/110981711/184499588-c07f462b-e23b-459e-a95c-4dd84f9f8b7a.png)
+![fznwmblackstroke](https://user-images.githubusercontent.com/110981711/184499668-380f20e7-4629-46b6-82b2-05b3df71f9f8.png)
