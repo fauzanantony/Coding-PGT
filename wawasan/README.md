@@ -25,4 +25,18 @@ ilmu yang mempraktikan pemrosesan informasi dan rekayasa sistem informasi untuk 
 
 Proses dimana seorang Software Development menyusun, menentukan, merancang, memprogram , mendokumentasikan , menguji , dan memperbaiki bug yang terlibat dalam membuat dan memelihara aplikasi.
 
-## 4. 
+## 4. Agile Software Development
+
+Sekelompok/seorang yang membuat sebuah software harus membuat rancagan atau menentukan Metodologi pengembangan perangkat lunak dan Proses pengembangan perangkat lunak
+
+## 5. Scrum
+
+suatu proses yang menggabungkan kegiatan kerangka kerja
+
+## 6. XP
+
+XP adalah sebuah proses perangkat lunak yang membantu pengembang membuat kode berkualitas dengan cepat.
+
+## Sekian
+
+mungkin itu saja rangkuman dari saya, mungkin kalau ada kurang nya saya minta maaf karena sebelum nya saya belum pernah terjun ke dunia pemrograman, di sekolah saya hanya dia ajari dasar dasar pemrograman karena saya lulusan smk jurusan tkj. Terima kasih !!
